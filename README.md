@@ -3,7 +3,7 @@
 Meta repo which includes all of my other dotfile repos
 Just recursively clone this repo:
 
-``` git clone --recursive https://github.com/fadein/vimfiles.git ```
+``` git clone --recursive https://github.com/fadein/homedir.git ```
 
 or manually initialize the submodules after the fact:
 
