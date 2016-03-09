@@ -1,18 +1,18 @@
 [submodule "dotbash"]
 	path = dotbash
-	url = git@github.com:fadein/dotbash.git
+	url = https://github.com/fadein/dotbash.git
 [submodule "dotfiles"]
 	path = dotfiles
-	url = git@github.com:fadein/dotfiles.git
+	url = https://github.com/fadein/dotfiles.git
 [submodule "dotscreen"]
 	path = dotscreen
-	url = git@github.com:fadein/dotscreen.git
+	url = https://github.com/fadein/dotscreen.git
 [submodule "dottmux"]
 	path = dottmux
-	url = git@github.com:fadein/dottmux.git
+	url = https://github.com/fadein/dottmux.git
 [submodule "dotvim"]
 	path = dotvim
-	url = git@github.com:fadein/dotvim.git
+	url = https://github.com/fadein/dotvim.git
 [submodule "dotzsh"]
 	path = dotzsh
-	url = git@github.com:fadein/dotzsh.git
+	url = https://github.com/fadein/dotzsh.git
