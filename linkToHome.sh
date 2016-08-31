@@ -17,5 +17,5 @@ if [ 0"$HOME" = "0" ]; then
 fi
 
 for L in */linkToHome.sh; do
-	[ -x $L ] && echodo $L
+	[ -x $L ] && echodo $L $@
 done
