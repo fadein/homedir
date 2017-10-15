@@ -10,9 +10,9 @@
 [submodule "dottmux"]
 	path = dottmux
 	url = https://github.com/fadein/dottmux.git
-[submodule "dotvim"]
-	path = dotvim
-	url = https://github.com/fadein/dotvim.git
 [submodule "dotzsh"]
 	path = dotzsh
 	url = https://github.com/fadein/dotzsh.git
+[submodule "vim-packed-config"]
+	path = vim-packed-config
+	url = https://github.com/fadein/vim-packed-config.git
