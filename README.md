@@ -11,3 +11,5 @@ or manually initialize the submodules after the fact:
 
 
 Run ``` linkToHome.sh ``` to set up symlinks
+
+Run ``` git pull --recurse-submodules ``` to make sure all submodules everywhere are updated
