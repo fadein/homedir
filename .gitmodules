@@ -13,6 +13,6 @@
 [submodule "dotzsh"]
 	path = dotzsh
 	url = https://github.com/fadein/dotzsh.git
-[submodule "vim-packed-config"]
-	path = vim-packed-config
-	url = https://github.com/fadein/vim-packed-config.git
+[submodule "dotvim"]
+	path = dotvim
+	url = https://github.com/fadein/dotvim.git
