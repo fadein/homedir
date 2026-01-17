@@ -18,4 +18,7 @@ fi
 
 for L in */linkToHome.sh; do
 	[ -x $L ] && echodo $L $@
+	echo
 done
+
+# vim: set noexpandtab:
